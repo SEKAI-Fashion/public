@@ -1,2 +1,1 @@
-# public
-Public issue tracker
+# Public issue tracker for the website.
